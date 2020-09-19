@@ -1,6 +1,11 @@
 ---
-title: Test
-date: 2020-09-19T09:28:10.772Z
-description: Test
+title: Petite Dédicace
+date: 2020-09-19T11:49:03.200Z
+description: À mes potes de St Cyr l'École
 ---
-Hello World
+# **Dédicace à** 
+
+* ### Jules
+* ### Mathieu
+* ### Maxence
+* ### Nicolas
