@@ -1,13 +1,12 @@
 ---
 title: Petite Dédicace
-date: 2020-11-10T15:38:32.519Z
+date: 2021-09-07T06:41:37.532Z
 description: À mes potes de St Cyr l'École
 ---
 * ### Jules
 * ### Mathieu
 * ### Maxence
 * ### Nicolas
-* ### Sacha
-* ### Alexandre
-* ### Orwa
-* ### Sigfried
+* ### Evan
+* ### Kilian
+* ### Antoine
