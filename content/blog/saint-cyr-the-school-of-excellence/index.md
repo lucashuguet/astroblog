@@ -1,7 +1,7 @@
 ---
 title: Saint Cyr, The school of Excellence
-date: 2021-10-18T06:54:48.809Z
-description: Article in AMC
+date: 2021-10-18T07:23:39.256Z
+description: The pros and cons of this very special school
 ---
 **Intro:**
 
