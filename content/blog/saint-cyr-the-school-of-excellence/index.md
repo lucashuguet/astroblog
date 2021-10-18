@@ -5,9 +5,9 @@ description: Article in AMC
 ---
 **Intro:**
 
-* Military School (one of 5 in France)
-* Famous people were at St Cyr
-* Admission (Military, Grant Holder and Civil servant’s child)
+   * Military School (one of 5 in France)
+   * Famous people were at St Cyr
+   * Admission (Military, Grant Holder and Civil servant’s child)
 
 **Plan:**
 
@@ -24,6 +24,6 @@ description: Article in AMC
 
 **Conclusion:**
 
-* 84% mention
-* 100% success to BAC
-* More advantages than disadvantage but Advantage are less significant than disadvantages
+   * 100% success to BAC
+   * 84% honours in the BAC
+   * More advantages than disadvantage but Advantage are less significant than disadvantages
