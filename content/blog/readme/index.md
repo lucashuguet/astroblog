@@ -83,4 +83,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 https://mega.nz/file/fP4jRSqT#_wGK6FLUnnQw5J5L4quKGWJ-L9KkJgp6ifsgD_xT1mM
 
+https://mega.nz/file/GTgSWZxY#U_hMtOsqxFj3pwtwex017p2K3IMvvCmZLhFLpi-i7U8
+
 <!-- AUTO-GENERATED-CONTENT:END -->
