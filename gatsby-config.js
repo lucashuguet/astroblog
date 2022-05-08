@@ -3,7 +3,7 @@ module.exports = {
     title: `AstroBlog`,
     author: {
       name: `Lucas Huguet`,
-      summary: `Développeur web et python`,
+      summary: `Software and indie game developer`,
     },
     description: `AstroGoat's Blog.`,
     siteUrl: `https://astroblog-react.netlify.app/`,
