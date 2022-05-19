@@ -5,7 +5,7 @@ description: Station météo maison
 ---
 ## Graphique sur un jour
 
-![Mesures du 27 avril](oneday.svg "Mesures du 27 avril")
+![graphique](oneday.svg "Mesures du 27 avril")
 
 ## Diaporama
 
